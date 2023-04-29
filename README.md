@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @baravind97 AKA Aravindkumar
+- 👋 Hi, I’m @baravind97 AKA Aravindkumar Baskaran, you can call me AK
 - 👀 I’m interested in ...Analytics, ML, NLP
-- 🌱 I’m currently learning ...Deep Learning, CV
+- 🌱 I’m currently learning ...Deep Learning, Mutli-variate Time Series
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You can drop a mail to baravind97@gmail.com
 
